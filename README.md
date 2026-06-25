@@ -17,8 +17,18 @@ A WeChat mini program for exploring Shanghai cultural tourism spots. It includes
 - Frontend: WeChat Mini Program
 - Backend: Node.js, Express, MongoDB
 
-## Profile Banner Tool
+## Banner Editor
 
-The banner above is generated with a visual editor:
+This profile repository also includes a visual banner editor:
 
-[Background-Picture](https://github.com/Gargantua-Wsd/Background-Picture)
+```text
+tools/banner-editor.html
+```
+
+Use it to load an image, drag it into position, stretch or scale it, and export a final GitHub profile banner. The final exported image can replace:
+
+```text
+assets/profile-banner.jpg
+```
+
+GitHub profile READMEs do not reliably run interactive HTML directly inside the README, so the editor is stored as a separate HTML tool.
