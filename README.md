@@ -3,7 +3,7 @@
 </p>
 
 <p align="center">
-  <img src="assets/profile-title.png" width="72%" alt="Gargantua-Wsd">
+  <img src="assets/profile-title.svg" width="72%" alt="Welcome to My World">
 </p>
 
 <p align="center">
@@ -16,22 +16,13 @@
 
 ## About Me
 
-- Building map-based cultural tourism experiences and WeChat mini program prototypes
-- Interested in cultural storytelling, location-based interaction, and practical full-stack products
-- Currently organizing personal projects as open-source work on GitHub
+A computer beginner who is continuously learning.
 
 ---
 
-## Featured Project
+## Projects I've Built
 
-### Shanghai Culture and Tourism Map
-
-A WeChat mini program for exploring Shanghai cultural tourism spots. It includes map browsing, place details, cultural stories, favorites, history, itinerary planning, and a Node.js backend prepared for deployment.
-
-- Repository: [Shanghai-Culture-and-Tourism-Map-A-2026-Guanghua-Cup-project](https://github.com/Gargantua-Wsd/Shanghai-Culture-and-Tourism-Map-A-2026-Guanghua-Cup-project)
-- Map service: AMap API
-- Frontend: WeChat Mini Program
-- Backend: Node.js, Express, MongoDB
+- [Shanghai-Culture-and-Tourism-Map-A-2026-Guanghua-Cup-project](https://github.com/Gargantua-Wsd/Shanghai-Culture-and-Tourism-Map-A-2026-Guanghua-Cup-project)
 
 ---
 
@@ -45,15 +36,3 @@ A WeChat mini program for exploring Shanghai cultural tourism spots. It includes
   <img src="https://img.shields.io/badge/MongoDB-47a248?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB">
   <img src="https://img.shields.io/badge/Git-f05032?style=flat-square&logo=git&logoColor=white" alt="Git">
 </p>
-
----
-
-## Banner Editor
-
-This profile repository includes a visual banner editor:
-
-```text
-tools/banner-editor.html
-```
-
-Use it locally to load an image, drag it into position, stretch or scale it, and export a final GitHub profile banner. GitHub profile READMEs do not reliably run interactive HTML directly inside the README, so the editor is stored as a separate HTML tool.
